@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/segon984/GH/_apis/build/status%2FForWork2024.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/segon984/GH/_build/latest?definitionId=6&branchName=main)
+
 
 # Contributing
 
